@@ -6,7 +6,7 @@
 * Expressões fracionárias
 * Equações
 * Inequações
-* Funções e suas propriedades
+* [Funções e suas propriedades](https://github.com/sunfreitas/pre-calculo/blob/master/07-funcoes.md)
 * Funções do 1º e do 2º Grau
 * Funções potênncia
 * Funções polinomiais
